@@ -1,0 +1,601 @@
+id,type,lat,lng
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,19.734,-155.082
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,-33.005,-172.985
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,10.051,-125.032
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,43.192,157.142
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,42.658,-130.502
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,20.4,-157.1
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,21.297,-157.959
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,21.417,-157.68
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,55.556,-152.582
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,21.019,-156.422
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,45.848,-128.775
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,21.671,-158.117
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,53.969,-160.794
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,24.361,-162.075
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,2.998,-79.101
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,-23.11,-168.385
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,23.558,-153.9
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,17.533,-152.255
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,48.11,163.435
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,-17.98,-86.33
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,32.659,-120.63
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,44.401,155.653
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,21.477,-157.756
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,56.622,-136.102
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,0.255,-81.211
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,38.816,145.595
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,52.52,-132.69
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,-33.109,-173.155
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,22.285,-159.574
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,19.283,155.729
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,46.134,-131.079
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,-8.491,-125.022
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,53.92,-138.85
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,23.528,-153.792
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,11.93,153.895
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,-1.136,-81.765
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,47.967,-124.95
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,50.055,-144.873
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,51.83,-131.22
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,46.851,-124.972
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,-0.888,-81.664
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,46.133,-124.644
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,52.765,-155.009
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,53.726,-152.483
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,49.78,-127.89
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,42.617,152.583
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,32.876,-120.718
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,50.153,171.897
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,55.318,-148.547
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sensor,50.017,-145.17
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,15.42832,-155.2681
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,1.62,143.9933
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,1.105467,-85.32836
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,8.78,150.0
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,49.98103,169.1519
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,36.58507,143.3268
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,13.43332,-93.10764
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,0.2733333,-91.61667
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,35.35785,-139.7929
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,45.39821,-150.6886
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,1.961667,-99.18667
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,-16.04597,-160.1572
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,0.4066867,-88.06837
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,16.35909,-158.9525
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,15.7396,-165.0274
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,-15.56985,-77.36587
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,-1.748507,-92.78499
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,51.88413,-137.9868
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,-19.62295,173.2466
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,1.991322,148.6907
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,51.755,159.655
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,-4.918098,-93.85775
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,-0.7483333,-90.30833
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,3.981963,-153.7518
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,15.83075,-171.1878
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,28.5413,161.2217
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,7.421667,-108.6867
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,12.6412,-111.6729
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,7.225798,-160.64
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,14.72394,160.0082
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,17.75603,148.161
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,28.90469,158.4579
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,31.39835,163.674
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,12.97616,-134.0437
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,-18.76895,178.1801
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,29.99732,-138.8827
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,43.47,146.45
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,-10.19707,-90.26035
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,4.053833,-152.0866
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,12.11171,-148.3845
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,-17.72,-140.65
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,32.43507,-143.3108
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,14.94167,-151.2983
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,5.035217,-136.1715
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,49.71212,-144.1451
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,30.575,-159.6182
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,9.093003,-86.2513
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,13.56508,-116.192
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,-22.14667,175.895
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,-0.7498683,-90.30874
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,54.80774,-151.6068
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,13.30818,-114.2352
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,-1.46405,-99.24672
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,1.384807,-91.81699
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,0.4066867,-88.06837
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,-17.34786,-90.69695
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,15.78246,-152.1616
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,26.91657,-144.8087
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,43.47587,150.86
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,-13.25,-163.08
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,44.01568,-154.9727
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,27.97611,-152.4374
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,-35.21167,-171.7467
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,4.747189,-144.9327
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,26.72467,156.1978
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,-7.098427,-163.4339
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,0.6605816,-93.25373
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,51.17959,-152.5382
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,31.19559,-140.9417
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,11.34349,151.6129
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,44.01568,-154.9727
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,27.11706,168.5578
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,24.20167,-117.225
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,-11.61851,-82.51299
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,-1.048513,165.5713
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,5.23353,-89.41514
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,3.0779,147.4053
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,16.90048,146.3962
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,21.94653,-159.708
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,-4.051035,160.6489
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,50.79493,-149.6547
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,-19.17378,-174.1687
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,-0.6,-90.35
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,-16.75052,-171.0706
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,33.71881,-148.7823
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,-16.77,-179.77
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,37.05092,-161.839
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,7.63,149.42
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,7.865197,-118.7301
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,0.6605816,-93.25373
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,5.16995,-146.5527
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,27.94535,163.4443
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,-16.78637,-76.85625
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,-18.47,-136.47
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,-2.914902,-136.2107
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,17.29212,-166.5886
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,4.890932,-148.6346
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,6.650182,168.4956
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,42.35667,-129.4017
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,19.3,-110.79
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,-12.83346,178.1118
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,11.16283,143.0257
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,20.22333,-109.765
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,32.43507,-143.3108
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,31.21575,-139.9015
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,-19.23285,-104.8227
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,30.00333,146.94
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,28.37133,-138.6788
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,14.96789,141.0186
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,18.30676,160.3475
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,38.04111,-165.0842
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,7.49815,-86.21573
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,2.993162,-129.4744
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,16.17,-110.7233
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,33.038,-128.7233
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,7.86,145.83
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,33.18616,-150.7432
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,37.29552,-160.73
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,-10.4,-161.2
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,28.43077,-150.8495
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,10.22333,-90.87666
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,-18.88,-159.74
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,-26.30048,-84.27388
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,-2.758333,-86.66333
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,51.48306,162.6925
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,39.20627,-128.5327
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,5.16995,-146.5527
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,4.375267,-139.0883
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,49.85168,158.5271
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,24.98487,-151.8686
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,-13.25499,-134.611
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,26.66176,143.552
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,53.67,-132.4
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,17.96435,-161.0086
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,12.62752,-167.73
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,15.09135,-134.172
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,0.6605816,-93.25373
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,8.488334,-90.14667
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,16.72,145.78
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,0.2733333,-91.61667
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,52.9807,-152.3934
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,-14.23667,-92.42834
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,-18.83,-178.92
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,-17.12681,174.8824
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,-1.49474,-86.96133
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,9.56,138.13
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,2.493333,-91.96167
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,5.166783,-146.5052
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,33.80315,-171.9888
+Index(['SENSOR_ID', 'GROUP', 'LATITUDE', 'LONGITUDE', 'LOCATION_TYPE',
+       'STATION_ID'],
+      dtype='object'),sink,12.45302,-174.5062

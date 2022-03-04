@@ -19,6 +19,12 @@ See `stations.csv` for the full list of locations.
 The processors process the data from sensors.
 This can happen in a ground station computers or in the LEO edge.
 
+NOAA Dart processing location:
+Pacific Tsunami Warning Center
+Building 176
+1845 Wasp Boulevard
+21.366315122964277, -157.96262184972477
+
 ### Data Sinks
 
 Processed data generates events that are read by the data sinks.
@@ -27,3 +33,12 @@ Ground station locations are located in the `groundstations.csv` file and based 
 
 Vessel locations from [MarineTraffic](https://www.marinetraffic.com/en/ais/home).
 Pacific island locations from [United Nations Environment Programme Island Directory](http://islands.unep.ch/isldir.htm).
+
+### Unknowns
+
+- Sensor Data Rate
+- Sensor Message Size
+- Sensor Message Content
+- Model Complexity
+- Iridium Bandwidth
+- Iridium ISL Bandwidth

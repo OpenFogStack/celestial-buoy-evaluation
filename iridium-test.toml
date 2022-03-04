@@ -1,0 +1,55 @@
+model = "SGP4"
+
+bbox = [-49.452503, 141.155777, 60.098745, -102.828598]
+interval = 5
+animation = false
+hosts = ["192.168.0.5:1969"]
+peeringhosts = ["192.168.0.5:1970"]
+dbhost = "192.168.0.2:8000"
+database = true
+
+[networkparams]
+islpropagation = 3.336e-6
+bandwidth = 100
+mincommsaltitude = 100_000
+minelevation = 8.2
+gstpropagation = 3.336e-6
+groundstationconnectiontype = "shortest"
+
+[computeparams]
+vcpu_count = 1
+mem_size_mib = 1024
+ht_enabled = false
+bootparams = ""
+kernel = "vmlinux.bin"
+rootfs = "service.img"
+disk_size_mib =  100
+
+[sgp4params]
+starttime = 2022-01-01T12:00:00+00:00
+
+[[shell]]
+planes = 6
+sats = 11
+altitude = 780
+inclination = 90.0
+arcofascendingnodes = 180.0
+eccentricity = 0.0
+
+[[groundstation]]
+name = "sensor1"
+# Enderbury
+lat = -3.42
+long = -171.5
+
+[groundstation.computeparams]
+rootfs = "sensor.img"
+
+[[groundstation]]
+name = "sink1"
+# Nukunonu
+lat = -9.17
+long = -171.92
+
+[groundstation.computeparams]
+rootfs = "sink.img"

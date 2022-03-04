@@ -6,7 +6,7 @@ if __name__ == "__main__":
     print(stations.head())
 
     # get ID, station name, and location
-    stations = stations[["STATION_ID", "NAME", "LOCATION"]]
+    stations = stations[["STATION_ID", "NAME", "LOCATION", "OWNER", "TTYPE"]]
 
     print(stations.head())
 

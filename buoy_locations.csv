@@ -1,0 +1,134 @@
+,STATION_ID,NAME,OWNER,TTYPE,LATITUDE,LONGITUDE,IS_BUOY,IN_PACIFIC,GROUP
+0,21346,"21346  380km East of Iwate, Japan",JM,STB - SAIC Tsunami Buoy,40.302,146.192,True,True,21346
+1,21347,"21347  320km East of Iwate, Japan",JM,STB - SAIC Tsunami Buoy,39.601,145.799,True,True,21346
+2,21348,"21348   350km East of Miyagi, Japan",JM,STB - SAIC Tsunami Buoy,38.816,145.595,True,True,21346
+3,21401,250NM Southeast of Iturup Island,HY,STB - SAIC Tsunami Buoy,42.617,152.583,True,True,21401
+4,21413,"SOUTHEAST TOKYO - 700NM ESE of Tokyo, JP",N,2.6-meter discus buoy,30.517,152.127,True,True,21413
+5,21414," AMCHITKA - 170 NM South of Amchitka, AK",N,2.6-meter discus buoy,48.963,178.237,True,True,21413
+6,21415,"ATTU - 175 NM South of Attu, AK",N,2.6-meter discus buoy,50.153,171.897,True,True,21413
+7,21416,"KAMCHATKA PENINSULA - 240NM SE of Kamchatka Peninsula, RU ",N,2.6-meter discus buoy,48.11,163.435,True,True,21413
+8,21417,290NM SE of the Kuril Islands,N,2.6-meter discus buoy,43.192,157.142,True,True,21413
+9,21418,"NORTHEAST TOKYO - 450 NM NE of Tokyo, JP",N,2.6-meter discus buoy,38.76,148.65,True,True,21413
+10,21419,KURIL ISLANDS - 209NM SE of Kuril Is. ,N,2.6-meter discus buoy,44.401,155.653,True,True,21413
+11,28401,Kuroshio Extension Observatory (KEO),PM,Buoy,32.384,144.54,True,True,28401
+12,32012,Woods Hole Stratus Wave Station ,WH,2.4-meter discus buoy,-19.425,-85.078,True,True,32012
+13,32066,Ecuador INOCAR,IR,2.6-meter discus buoy,-1.136,-81.765,True,True,32066
+14,32067,ECUADOR INOCAR,IR,2.6-meter discus buoy,0.641,-81.262,True,True,32066
+15,32068,"ECUADOR INOCAR - 58 NM West of Manta, Ecuador",IR,2.4-meter discus buoy,-0.888,-81.664,True,True,32066
+16,32069,"ECUADOR INOCAR - 71 NM West of Pedernales, Ecuador   ",IR,2.4-meter discus buoy,0.255,-81.211,True,True,32066
+17,32301,,N,3-meter discus buoy,-9.9,-105.2,True,True,32301
+18,32302,,N,3-meter discus buoy,-18.0,-85.1,True,True,32301
+19,32411,"WEST PANAMA - 710 NM WSW of Panama City, Panama",N,2.6-meter discus buoy,4.958,-90.868,True,True,32301
+20,32412,"SOUTHWEST LIMA - 645 NM SW of Lima, Peru",N,2.6-meter discus buoy,-17.984,-86.374,True,True,32301
+21,32413,"NORTHWEST LIMA - 1000 NM WNW of Lima, Peru",N,2.6-meter discus buoy,-7.428,-93.48,True,True,32301
+22,32489,"Colombia   121NM SW of Buenaventura, Colombia",DA,2.6-meter discus buoy,2.998,-79.101,True,True,32489
+23,32746,TAO Buoy Adrift,N,Buoy,-5.0,-110.0,True,True,32301
+24,32d12,"SOUTHWEST LIMA 645NM SW of Lima, Peru",N,2.6-meter discus buoy,-17.98,-86.33,True,True,32301
+25,32d13,ADRIFT BUOY FROM 32413,N,2.6-meter discus buoy,-7.43,-93.48,True,True,32301
+26,43010,Woods Hole Spurs Wave Station,WH,2.4-meter discus buoy,10.051,-125.032,True,True,43010
+27,43412,"SOUTHWEST MANZANILLO - 240 NM SW of Manzanillo, MX",N,2.6-meter discus buoy,16.001,-106.987,True,True,32301
+28,43413,"SOUTH ACAPULCO - 360NM South of Acapulco, MX",N,2.6-meter discus buoy,10.949,-100.03,True,True,32301
+29,46001,"WESTERN GULF OF ALASKA  - 175NM SE of Kodiak, AK",N,3-meter discus buoy,56.232,-147.949,True,True,21413
+30,46002,"WEST OREGON - 275NM West of Coos Bay, OR",N,3-meter discus buoy w/ seal cage,42.658,-130.502,True,True,21413
+31,46003,S ALEUTIANS,N,6-meter NOMAD buoy,51.831,-155.85,True,True,21413
+32,46004,Middle Nomad,C,6-meter NOMAD buoy,50.93,-136.1,True,True,46004
+33,46005,"WEST WASHINGTON - 300NM West of Aberdeen, WA",N,3-meter foam buoy,46.134,-131.079,True,True,21413
+34,46006,"SOUTHEAST PAPA - 600NM West of Eureka, CA",N,3-meter foam buoy,40.766,-137.379,True,True,21413
+35,46029,COLUMBIA RIVER BAR - 20NM West of Columbia River Mouth,N,3-meter discus buoy,46.163,-124.487,True,True,21413
+36,46036,South Nomad,C,6-meter NOMAD buoy,48.36,-133.94,True,True,46004
+37,46037,,N,3-meter discus buoy,48.3,-133.8,True,True,21413
+38,46041,"CAPE ELIZABETH - 45NM NW of Aberdeen, WA",N,3-meter discus buoy,47.353,-124.742,True,True,21413
+39,46059,"WEST CALIFORNIA - 357NM West of San Francisco, CA",N,3-meter foam buoy,38.053,-129.967,True,True,21413
+40,46066,"SOUTH KODIAK - 310NM SSW of Kodiak, AK",N,3-meter foam buoy,52.765,-155.009,True,True,21413
+41,46071,"WESTERN ALEUTIANS - 14NM SOUTH OF AMCHITKA IS, AK ",N,3-meter discus buoy w/ seal cage,51.125,179.012,True,True,21413
+42,46072,CENTRAL ALEUTIANS 230 NM SW Dutch Harbor,N,3-meter discus buoy,51.672,-172.088,True,True,21413
+43,46075,"SHUMAGIN ISLANDS - 85NM South of Sand Point, AK",N,3-meter discus buoy w/ seal cage,53.969,-160.794,True,True,21413
+44,46078,"ALBATROSS BANK - 104NM South of Kodiak Is., AK",N,3-meter discus buoy w/ seal cage,55.556,-152.582,True,True,21413
+45,46084,"CAPE EDGECUMBE - 25NM SSW of Cape Edgecumbe, AK",N,3-meter discus buoy w/ seal cage,56.622,-136.102,True,True,21413
+46,46085,"CENTRAL GULF OF ALASKA -  265NM West of Cape Ommaney, AK",N,3-meter discus buoy,55.883,-142.882,True,True,21413
+47,46089,"TILLAMOOK, OR - 85 NM WNW of Tillamook, OR",N,3-meter discus buoy w/ seal cage,45.933,-125.785,True,True,21413
+48,46090,SOCAL WEST NOOS WX BUOY,N,Moored Buoy,32.876,-120.718,True,True,21413
+49,46098,OOI Waldport Offshore,OO,Buoy,44.381,-124.956,True,True,46098
+50,46100,OOI Westport Offshore,OO,Buoy,46.851,-124.972,True,True,46098
+51,46119,Cha'Ba La Push,,Buoy,47.967,-124.95,True,True,46119
+52,46132,South Brooks,C,3-meter discus buoy,49.78,-127.89,True,True,46004
+53,46145,Central Dixon Entrance Buoy,C,3-meter discus buoy,54.37,-132.42,True,True,46004
+54,46147,South Moresby,C,3-meter discus buoy,51.83,-131.22,True,True,46004
+55,46183,North Hecate Strait,C,3-meter discus buoy,53.62,-131.1,True,True,46004
+56,46184,North Nomad,C,6-meter NOMAD buoy,53.92,-138.85,True,True,46004
+57,46205,West Dixon Entrance,C,3-meter discus buoy,54.18,-134.32,True,True,46004
+58,46207,East Dellwood,C,3-meter discus buoy,50.87,-129.92,True,True,46004
+59,46208,West Moresby,C,3-meter discus buoy,52.52,-132.69,True,True,46004
+60,46246,Ocean Station PAPA  (166),WQ,Waverider Buoy,50.017,-145.17,True,True,46246
+61,46248,"Astoria Canyon, OR  (179)",R,Waverider Buoy,46.133,-124.644,True,True,46248
+62,46290,NOOSS Optimization Buoy,N,2.3-meter NOOSS buoy,32.659,-120.63,True,True,21413
+63,46401," SOUTHEAST ADAK - 377NM SE of Adak, AK",N,2.6-meter discus buoy,46.638,-170.79,True,True,21413
+64,46402," South Dutch Harbor - 220 NM SSE of Dutch Harbor, AK",N,2.6-meter discus buoy,50.978,-163.948,True,True,21413
+65,46403,"SOUTHEAST SHUMAGIN ISLAND - 186 NM SE of Shumagin Is, AK",N,2.6-meter discus buoy,52.663,-156.778,True,True,21413
+66,46404,"WEST ASTORIA - 230 NM West of Astoria, OR",N,2.6-meter discus buoy,45.848,-128.775,True,True,21413
+67,46405,"325 NM West-Southwest of Newport, OR",N,2.6-meter discus buoy,42.903,-130.909,True,True,21413
+68,46406,"2,900 NM Southeast of Hawaii",N,2.6-meter discus buoy,-8.491,-125.022,True,True,46406
+69,46407,"NEWPORT - 210NM West of Coos Bay, OR",N,2.6-meter discus buoy,42.705,-128.835,True,True,21413
+70,46408," NIKOLSKI - 212 NM South of Umnak Is, AK",N,2.6-meter discus buoy,49.666,-169.876,True,True,21413
+71,46409,"SOUTHEAST KODIAK - 210 NM SE of Kodiak, AK",N,2.6-meter discus buoy,55.318,-148.547,True,True,21413
+72,46410,"SOUTH CORDOVA 188NM SSE of Cordova, AK",N,2.6-meter discus buoy,57.644,-143.734,True,True,21413
+73,46411,"Mendocino - 150 NM West of  Mendocino Bay, CA",N,2.6-meter discus buoy,39.335,-127.07,True,True,21413
+74,46412,"San Diego - 175 NM West of San Diego, CA",N,2.6-meter discus buoy,32.4,-120.582,True,True,21413
+75,46413,"SOUTH-SOUTHEAST ADAK - 243 NM SSE of Adak Island, AK",N,2.6-meter discus buoy,48.045,-173.897,True,True,21413
+76,46414,"SOUTHEAST CHIRIKOF - 165 NM SE of Chirikof Island, AK",N,2.6 meter DART buoy,53.726,-152.483,True,True,21413
+77,46415,"SOUTHWEST JUNEAU - 370 NM SW of Juneau, AK",N,2.6-meter discus buoy,52.98,-139.95,True,True,21413
+78,46416,"WEST VANCOUVER - 442NM West of Vancouver, BC, Canada",N,2.6 meter DART buoy,49.901,-134.395,True,True,21413
+79,46419,"NORTHWEST SEATTLE - 300 NM WNW of Seattle, WA",N,2.6 meter DART buoy,48.805,-129.616,True,True,21413
+80,46451,"PMEL 4G Test 1 - 83NM W of Newport, OR",PD,Buoy,44.815,-125.699,True,True,46451
+81,46452,"PMEL 4G Test 2 - 74NM West of Newport, OR",PD,Buoy,44.807,-125.759,True,True,46451
+82,46490,NOOSS Optimization Buoy  ,N,Moored Buoy,32.455,-120.557,True,True,21413
+83,46t29,COLUMBIA RIVER BAR - 20NM West of Columbia River Mouth,N,2.1-meter ionomer foam buoy w/ seal cage,46.141,-124.574,True,True,21413
+84,48400,Ocean Climate Station Papa,PM,Buoy,50.055,-144.873,True,True,48400
+85,51000,NORTHERN HAWAII ONE - 245NM NE of Honolulu HI,N,3-meter foam buoy,23.528,-153.792,True,True,51000
+86,51001,"NORTHWESTERN HAWAII ONE - 188 NM NW of Kauai Island, HI",N,2.1-meter ionomer foam buoy,24.453,-162.0,True,True,51000
+87,51002,"SOUTHWEST HAWAII - 215NM SSW of Hilo, HI",N,3-meter foam buoy,17.043,-157.742,True,True,51000
+88,51003,"WESTERN  HAWAII - 205 NM SW of Honolulu, HI",N,3-meter foam buoy,19.196,-160.639,True,True,51000
+89,51004,"SOUTHEAST HAWAII - 205 NM Southeast of Hilo, HI",N,3-meter foam buoy,17.533,-152.255,True,True,51000
+90,51005,,N,3-meter discus buoy,20.4,-156.1,True,True,51000
+91,51026,Northern Molokai,N,3-meter discus buoy,21.35,-156.93,True,True,51000
+92,51027,,N,3-meter discus buoy,20.4,-157.1,True,True,51000
+93,51028,Christmas Island ,N,3-meter discus buoy,0.0,-153.913,True,True,51028
+94,51045,"Hilo Bay, HI",PO,Buoy,19.734,-155.082,True,True,51045
+95,51046,"Kawaihai, HI",PO,Buoy,20.024,-155.828,True,True,51045
+96,51100,"NORTHERN HAWAII TWO - 252NM NE of Honolulu, HI",N,3-meter discus buoy,23.558,-153.9,True,True,51000
+97,51101,"NORTHWESTERN HAWAII TWO - 186 NM NW of Kauai Is., HI   ",N,3-meter foam buoy,24.361,-162.075,True,True,51000
+98,511x1,"NORTHWESTERN HAWAII TWO - 190NM NW of Kauai Is, HI  ",N,3-meter discus buoy,23.445,-162.279,True,True,51000
+99,51200,"Barbers Point, HI  (164)",R,Waverider Buoy,21.096,-158.303,True,True,51200
+100,51201,"Waimea Bay, HI (106)",PO,Waverider Buoy,21.671,-158.117,True,True,51045
+101,51202,"Mokapu Point, HI (098)",PO,Waverider Buoy,21.417,-157.68,True,True,51045
+102,51203,"Kaumalapau, HI (146)",PO,Waverider Buoy,20.788,-157.01,True,True,51045
+103,51204,"Barbers Point, HI #2 (165)",PO,Waverider Buoy,21.281,-158.124,True,True,51045
+104,51205,"Pauwela, Maui, HI (187)",PO,Waverider Buoy,21.019,-156.422,True,True,51045
+105,51206,"Hilo, Hawaii, HI (188)",PO,Waverider Buoy,19.779,-154.97,True,True,51045
+106,51207,"Kaneohe Bay, HI (198)",PO,Waverider Buoy,21.477,-157.752,True,True,51045
+107,51208,"Hanalei, Kauai, HI (202)",PO,Waverider Buoy,22.285,-159.574,True,True,51045
+108,51209,"Aunuu, American Samoa (189)",PO,Waverider Buoy,-14.273,-170.5,True,True,51209
+109,51210,"Kaneohe Bay, WETS, HI (225)",PO,Waverider Buoy,21.477,-157.756,True,True,51045
+110,51211,"Pearl Harbor Entrance, HI (233)",PO,Waverider Buoy,21.297,-157.959,True,True,51045
+111,51212,"Barbers Point, Kalaeloa, HI (238)",PO,Waverider Buoy,21.323,-158.149,True,True,51045
+112,51213,"Kaumalapau Southwest, Lanai, HI (239)",PO,Waverider Buoy,20.75,-157.003,True,True,51045
+113,51406,CENTRAL SOUTH PACIFIC  - 1040NM NNE of Pitcarin Is ,N,2.6-meter discus buoy,-8.48,-125.027,True,True,46406
+114,51407,"HAWAII - 34NM West of Kailua-Kona, HI",N,2.6-meter discus buoy,19.556,-156.538,True,True,51000
+115,51425,"NORTHWEST APIA - 370 NM NW of Apia, Samoa",N,2.6-meter discus buoy,-9.505,-176.262,True,True,51425
+116,51426,SOUTHEAST TONGA - 400NM SE of Tonga,N,2.6-meter discus buoy,-23.11,-168.385,True,True,51426
+117,51d26,SOUTHEAST TONGA - 400NM SE of Tonga,N,2.6-meter discus buoy,-22.993,-168.133,True,True,51426
+118,51wh0,WHOTS - Woods Hole Ocean Time-series,WH,Moored Buoy,23.0,-158.0,True,True,51wh0
+119,52009,,N,3-meter discus buoy,13.729,-144.668,True,True,51000
+120,52200,"Ipan, Guam (121)",PO,Waverider Buoy,13.354,144.788,True,True,52200
+121,52201,"Kalo, Majuro, Marshall Islands (163)",PO,Waverider Buoy,7.083,171.392,True,True,52201
+122,52202,"Ritidian Point, Guam (196)",PO,Waverider Buoy,13.682,144.806,True,True,52200
+123,52211,"Tanapag, Saipan, NMI (197)",PO,Waverider Buoy,15.268,145.662,True,True,52200
+124,52212,"Ngaraard, Babeldaob, Palau (219)",R,Waverider Buoy,7.63,134.667,True,True,52212
+125,52401,NORTHEAST SAIPAN - 610 NM ENE of Saipan,N,2.6-meter discus buoy,19.283,155.729,True,True,52401
+126,52402,SOUTHEAST SAIPAN - 540NM ESE of Saipan,N,2.6-meter discus buoy,11.93,153.895,True,True,52401
+127,52403,"NORTH MANUS - 345NM North of Manus Is , New Guinea",N,2.6-meter discus buoy,4.026,145.616,True,True,52403
+128,52406,NORTHEAST SOLOMON - 370NM NE of Guadalcanal,N,2.6 meter DART buoy,-5.373,164.99,True,True,52406
+129,54401,"NORTHEAST NEW ZEALAND - 640NM NE of Auckland, NZ",N,2.6-meter discus buoy,-33.109,-173.155,True,True,54401
+130,54d01,"NORTHEAST NEW ZEALAND - 640NM NE of Auckland, NZ",N,2.6-meter discus buoy,-33.005,-172.985,True,True,54401
+131,eb35,,N,6-meter NOMAD buoy,55.3,-157.0,True,True,21413
+132,eb90,BERING SEA,N,12-meter discus buoy,47.0,-130.9,True,True,21413

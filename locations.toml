@@ -1,123 +1,6 @@
 
 [[groundstation]]
-name = "sensor94"
-lat = 19.734
-long = -155.082
-
-[groundstation.computeparams]
-rootfs = "sensor.img"
-
-
-[[groundstation]]
-name = "sensor130"
-lat = -33.005
-long = -172.985
-
-[groundstation.computeparams]
-rootfs = "sensor.img"
-
-
-[[groundstation]]
-name = "sensor26"
-lat = 10.051
-long = -125.032
-
-[groundstation.computeparams]
-rootfs = "sensor.img"
-
-
-[[groundstation]]
-name = "sensor8"
-lat = 43.192
-long = 157.142
-
-[groundstation.computeparams]
-rootfs = "sensor.img"
-
-
-[[groundstation]]
-name = "sensor30"
-lat = 42.658
-long = -130.502
-
-[groundstation.computeparams]
-rootfs = "sensor.img"
-
-
-[[groundstation]]
-name = "sensor92"
-lat = 20.4
-long = -157.1
-
-[groundstation.computeparams]
-rootfs = "sensor.img"
-
-
-[[groundstation]]
-name = "sensor110"
-lat = 21.297
-long = -157.959
-
-[groundstation.computeparams]
-rootfs = "sensor.img"
-
-
-[[groundstation]]
-name = "sensor101"
-lat = 21.417
-long = -157.68
-
-[groundstation.computeparams]
-rootfs = "sensor.img"
-
-
-[[groundstation]]
-name = "sensor44"
-lat = 55.556
-long = -152.582
-
-[groundstation.computeparams]
-rootfs = "sensor.img"
-
-
-[[groundstation]]
-name = "sensor104"
-lat = 21.019
-long = -156.422
-
-[groundstation.computeparams]
-rootfs = "sensor.img"
-
-
-[[groundstation]]
-name = "sensor66"
-lat = 45.848
-long = -128.775
-
-[groundstation.computeparams]
-rootfs = "sensor.img"
-
-
-[[groundstation]]
-name = "sensor100"
-lat = 21.671
-long = -158.117
-
-[groundstation.computeparams]
-rootfs = "sensor.img"
-
-
-[[groundstation]]
-name = "sensor43"
-lat = 53.969
-long = -160.794
-
-[groundstation.computeparams]
-rootfs = "sensor.img"
-
-
-[[groundstation]]
-name = "sensor97"
+name = "sensor111"
 lat = 24.361
 long = -162.075
 
@@ -126,79 +9,25 @@ rootfs = "sensor.img"
 
 
 [[groundstation]]
-name = "sensor22"
-lat = 2.998
-long = -79.101
+name = "sensor134"
+lat = 13.729
+long = -144.668
 
 [groundstation.computeparams]
 rootfs = "sensor.img"
 
 
 [[groundstation]]
-name = "sensor116"
-lat = -23.11
-long = -168.385
+name = "sensor44"
+lat = 48.3
+long = -133.8
 
 [groundstation.computeparams]
 rootfs = "sensor.img"
 
 
 [[groundstation]]
-name = "sensor96"
-lat = 23.558
-long = -153.9
-
-[groundstation.computeparams]
-rootfs = "sensor.img"
-
-
-[[groundstation]]
-name = "sensor89"
-lat = 17.533
-long = -152.255
-
-[groundstation.computeparams]
-rootfs = "sensor.img"
-
-
-[[groundstation]]
-name = "sensor7"
-lat = 48.11
-long = 163.435
-
-[groundstation.computeparams]
-rootfs = "sensor.img"
-
-
-[[groundstation]]
-name = "sensor24"
-lat = -17.98
-long = -86.33
-
-[groundstation.computeparams]
-rootfs = "sensor.img"
-
-
-[[groundstation]]
-name = "sensor62"
-lat = 32.659
-long = -120.63
-
-[groundstation.computeparams]
-rootfs = "sensor.img"
-
-
-[[groundstation]]
-name = "sensor10"
-lat = 44.401
-long = 155.653
-
-[groundstation.computeparams]
-rootfs = "sensor.img"
-
-
-[[groundstation]]
-name = "sensor109"
+name = "sensor123"
 lat = 21.477
 long = -157.756
 
@@ -207,115 +36,25 @@ rootfs = "sensor.img"
 
 
 [[groundstation]]
-name = "sensor45"
-lat = 56.622
-long = -136.102
+name = "sensor158"
+lat = -26.0
+long = 176.0
 
 [groundstation.computeparams]
 rootfs = "sensor.img"
 
 
 [[groundstation]]
-name = "sensor16"
-lat = 0.255
-long = -81.211
+name = "sensor118"
+lat = 21.019
+long = -156.422
 
 [groundstation.computeparams]
 rootfs = "sensor.img"
 
 
 [[groundstation]]
-name = "sensor2"
-lat = 38.816
-long = 145.595
-
-[groundstation.computeparams]
-rootfs = "sensor.img"
-
-
-[[groundstation]]
-name = "sensor59"
-lat = 52.52
-long = -132.69
-
-[groundstation.computeparams]
-rootfs = "sensor.img"
-
-
-[[groundstation]]
-name = "sensor129"
-lat = -33.109
-long = -173.155
-
-[groundstation.computeparams]
-rootfs = "sensor.img"
-
-
-[[groundstation]]
-name = "sensor107"
-lat = 22.285
-long = -159.574
-
-[groundstation.computeparams]
-rootfs = "sensor.img"
-
-
-[[groundstation]]
-name = "sensor125"
-lat = 19.283
-long = 155.729
-
-[groundstation.computeparams]
-rootfs = "sensor.img"
-
-
-[[groundstation]]
-name = "sensor33"
-lat = 46.134
-long = -131.079
-
-[groundstation.computeparams]
-rootfs = "sensor.img"
-
-
-[[groundstation]]
-name = "sensor68"
-lat = -8.491
-long = -125.022
-
-[groundstation.computeparams]
-rootfs = "sensor.img"
-
-
-[[groundstation]]
-name = "sensor56"
-lat = 53.92
-long = -138.85
-
-[groundstation.computeparams]
-rootfs = "sensor.img"
-
-
-[[groundstation]]
-name = "sensor85"
-lat = 23.528
-long = -153.792
-
-[groundstation.computeparams]
-rootfs = "sensor.img"
-
-
-[[groundstation]]
-name = "sensor126"
-lat = 11.93
-long = 153.895
-
-[groundstation.computeparams]
-rootfs = "sensor.img"
-
-
-[[groundstation]]
-name = "sensor13"
+name = "sensor18"
 lat = -1.136
 long = -81.765
 
@@ -324,106 +63,25 @@ rootfs = "sensor.img"
 
 
 [[groundstation]]
-name = "sensor51"
-lat = 47.967
-long = -124.95
+name = "sensor179"
+lat = 21.288
+long = -157.865
 
 [groundstation.computeparams]
 rootfs = "sensor.img"
 
 
 [[groundstation]]
-name = "sensor84"
-lat = 50.055
-long = -144.873
+name = "sensor146"
+lat = 7.774
+long = 140.0
 
 [groundstation.computeparams]
 rootfs = "sensor.img"
 
 
 [[groundstation]]
-name = "sensor54"
-lat = 51.83
-long = -131.22
-
-[groundstation.computeparams]
-rootfs = "sensor.img"
-
-
-[[groundstation]]
-name = "sensor50"
-lat = 46.851
-long = -124.972
-
-[groundstation.computeparams]
-rootfs = "sensor.img"
-
-
-[[groundstation]]
-name = "sensor15"
-lat = -0.888
-long = -81.664
-
-[groundstation.computeparams]
-rootfs = "sensor.img"
-
-
-[[groundstation]]
-name = "sensor61"
-lat = 46.133
-long = -124.644
-
-[groundstation.computeparams]
-rootfs = "sensor.img"
-
-
-[[groundstation]]
-name = "sensor40"
-lat = 52.765
-long = -155.009
-
-[groundstation.computeparams]
-rootfs = "sensor.img"
-
-
-[[groundstation]]
-name = "sensor76"
-lat = 53.726
-long = -152.483
-
-[groundstation.computeparams]
-rootfs = "sensor.img"
-
-
-[[groundstation]]
-name = "sensor52"
-lat = 49.78
-long = -127.89
-
-[groundstation.computeparams]
-rootfs = "sensor.img"
-
-
-[[groundstation]]
-name = "sensor3"
-lat = 42.617
-long = 152.583
-
-[groundstation.computeparams]
-rootfs = "sensor.img"
-
-
-[[groundstation]]
-name = "sensor48"
-lat = 32.876
-long = -120.718
-
-[groundstation.computeparams]
-rootfs = "sensor.img"
-
-
-[[groundstation]]
-name = "sensor6"
+name = "sensor7"
 lat = 50.153
 long = 171.897
 
@@ -432,1305 +90,495 @@ rootfs = "sensor.img"
 
 
 [[groundstation]]
-name = "sensor71"
-lat = 55.318
-long = -148.547
+name = "sensor5"
+lat = 30.517
+long = 152.127
 
 [groundstation.computeparams]
 rootfs = "sensor.img"
 
 
 [[groundstation]]
-name = "sensor60"
-lat = 50.017
-long = -145.17
+name = "sensor126"
+lat = 20.75
+long = -157.003
 
 [groundstation.computeparams]
 rootfs = "sensor.img"
 
 
 [[groundstation]]
-name = "sinkSHIP1380"
-lat = 15.42832
-long = -155.2681
+name = "sensor159"
+lat = 9.9
+long = 139.7
 
 [groundstation.computeparams]
-rootfs = "sink.img"
+rootfs = "sensor.img"
 
 
 [[groundstation]]
-name = "sinkSHIP1603"
-lat = 1.62
-long = 143.9933
+name = "sensor113"
+lat = 21.096
+long = -158.303
 
 [groundstation.computeparams]
-rootfs = "sink.img"
+rootfs = "sensor.img"
 
 
 [[groundstation]]
-name = "sinkSHIP2110"
-lat = 1.105467
-long = -85.32836
+name = "sensor80"
+lat = 39.335
+long = -127.07
 
 [groundstation.computeparams]
-rootfs = "sink.img"
+rootfs = "sensor.img"
 
 
 [[groundstation]]
-name = "sinkISLAND149"
-lat = 8.78
-long = 150.0
+name = "sensor55"
+lat = 32.876
+long = -120.718
 
 [groundstation.computeparams]
-rootfs = "sink.img"
+rootfs = "sensor.img"
 
 
 [[groundstation]]
-name = "sinkSHIP1696"
-lat = 49.98103
-long = 169.1519
+name = "sensor56"
+lat = 44.381
+long = -124.956
 
 [groundstation.computeparams]
-rootfs = "sink.img"
+rootfs = "sensor.img"
 
 
 [[groundstation]]
-name = "sinkSHIP2062"
-lat = 36.58507
-long = 143.3268
+name = "sensor37"
+lat = 42.658
+long = -130.502
 
 [groundstation.computeparams]
-rootfs = "sink.img"
+rootfs = "sensor.img"
 
 
 [[groundstation]]
-name = "sinkSHIP183"
-lat = 13.43332
-long = -93.10764
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP1320"
-lat = 0.2733333
-long = -91.61667
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP625"
-lat = 35.35785
-long = -139.7929
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP279"
-lat = 45.39821
-long = -150.6886
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP1114"
-lat = 1.961667
-long = -99.18667
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP2351"
-lat = -16.04597
-long = -160.1572
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP2902"
-lat = 0.4066867
-long = -88.06837
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP166"
-lat = 16.35909
-long = -158.9525
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP675"
-lat = 15.7396
-long = -165.0274
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP2819"
-lat = -15.56985
-long = -77.36587
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP420"
-lat = -1.748507
-long = -92.78499
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP543"
-lat = 51.88413
-long = -137.9868
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP2773"
-lat = -19.62295
-long = 173.2466
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP2698"
-lat = 1.991322
-long = 148.6907
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP1894"
-lat = 51.755
-long = 159.655
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP2147"
-lat = -4.918098
-long = -93.85775
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP2146"
-lat = -0.7483333
-long = -90.30833
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP3"
-lat = 3.981963
-long = -153.7518
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP942"
-lat = 15.83075
-long = -171.1878
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP1566"
-lat = 28.5413
-long = 161.2217
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP866"
-lat = 7.421667
-long = -108.6867
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP132"
-lat = 12.6412
-long = -111.6729
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP400"
-lat = 7.225798
-long = -160.64
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP1681"
-lat = 14.72394
-long = 160.0082
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP1903"
-lat = 17.75603
-long = 148.161
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP1722"
-lat = 28.90469
-long = 158.4579
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP1626"
-lat = 31.39835
-long = 163.674
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP386"
-lat = 12.97616
-long = -134.0437
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP2612"
-lat = -18.76895
-long = 178.1801
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP894"
-lat = 29.99732
-long = -138.8827
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkISLAND323"
-lat = 43.47
-long = 146.45
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP2848"
-lat = -10.19707
-long = -90.26035
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP797"
-lat = 4.053833
-long = -152.0866
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP155"
-lat = 12.11171
-long = -148.3845
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkISLAND187"
-lat = -17.72
-long = -140.65
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP369"
-lat = 32.43507
-long = -143.3108
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP1111"
-lat = 14.94167
-long = -151.2983
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP910"
-lat = 5.035217
-long = -136.1715
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP1315"
-lat = 49.71212
-long = -144.1451
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP1459"
-lat = 30.575
-long = -159.6182
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP1013"
-lat = 9.093003
-long = -86.2513
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP493"
-lat = 13.56508
-long = -116.192
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP2702"
-lat = -22.14667
-long = 175.895
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP2286"
-lat = -0.7498683
-long = -90.30874
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP17"
-lat = 54.80774
-long = -151.6068
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP406"
-lat = 13.30818
-long = -114.2352
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP506"
-lat = -1.46405
-long = -99.24672
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP2155"
-lat = 1.384807
-long = -91.81699
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP714"
-lat = 0.4066867
-long = -88.06837
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP2893"
-lat = -17.34786
-long = -90.69695
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP456"
-lat = 15.78246
-long = -152.1616
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP352"
-lat = 26.91657
-long = -144.8087
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP1914"
-lat = 43.47587
-long = 150.86
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkISLAND320"
-lat = -13.25
-long = -163.08
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP1314"
-lat = 44.01568
-long = -154.9727
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP451"
-lat = 27.97611
-long = -152.4374
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP2468"
-lat = -35.21167
-long = -171.7467
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP726"
-lat = 4.747189
-long = -144.9327
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP1746"
-lat = 26.72467
-long = 156.1978
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP2455"
-lat = -7.098427
-long = -163.4339
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP2870"
-lat = 0.6605816
-long = -93.25373
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP153"
-lat = 51.17959
-long = -152.5382
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP1465"
-lat = 31.19559
-long = -140.9417
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP1659"
-lat = 11.34349
-long = 151.6129
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP545"
-lat = 44.01568
-long = -154.9727
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP2010"
-lat = 27.11706
-long = 168.5578
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP843"
-lat = 24.20167
-long = -117.225
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP2812"
-lat = -11.61851
-long = -82.51299
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP2622"
-lat = -1.048513
-long = 165.5713
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP2503"
-lat = 5.23353
-long = -89.41514
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP2623"
-lat = 3.0779
-long = 147.4053
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP1552"
-lat = 16.90048
-long = 146.3962
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP753"
-lat = 21.94653
-long = -159.708
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP2682"
-lat = -4.051035
-long = 160.6489
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP425"
-lat = 50.79493
-long = -149.6547
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP2258"
-lat = -19.17378
-long = -174.1687
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkISLAND110"
-lat = -0.6
-long = -90.35
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP2378"
-lat = -16.75052
-long = -171.0706
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP766"
-lat = 33.71881
-long = -148.7823
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkISLAND34"
-lat = -16.77
-long = -179.77
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP1223"
-lat = 37.05092
-long = -161.839
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkISLAND161"
+name = "sensor139"
 lat = 7.63
-long = 149.42
+long = 134.667
+
+[groundstation.computeparams]
+rootfs = "sensor.img"
+
+
+[[groundstation]]
+name = "sensor71"
+lat = 50.978
+long = -163.948
+
+[groundstation.computeparams]
+rootfs = "sensor.img"
+
+
+[[groundstation]]
+name = "sensor33"
+lat = 10.051
+long = -125.032
+
+[groundstation.computeparams]
+rootfs = "sensor.img"
+
+
+[[groundstation]]
+name = "sensor86"
+lat = 48.805
+long = -129.616
+
+[groundstation.computeparams]
+rootfs = "sensor.img"
+
+
+[[groundstation]]
+name = "sensor106"
+lat = 20.4
+long = -157.1
+
+[groundstation.computeparams]
+rootfs = "sensor.img"
+
+
+[[groundstation]]
+name = "sensor153"
+lat = 14.0
+long = 154.953
+
+[groundstation.computeparams]
+rootfs = "sensor.img"
+
+
+[[groundstation]]
+name = "sensor66"
+lat = 52.52
+long = -132.69
+
+[groundstation.computeparams]
+rootfs = "sensor.img"
+
+
+[[groundstation]]
+name = "sensor173"
+lat = 13.444
+long = 144.657
+
+[groundstation.computeparams]
+rootfs = "sensor.img"
+
+
+[[groundstation]]
+name = "sensor164"
+lat = 7.63
+long = 155.16
+
+[groundstation.computeparams]
+rootfs = "sensor.img"
+
+
+[[groundstation]]
+name = "sensor22"
+lat = -9.9
+long = -105.2
+
+[groundstation.computeparams]
+rootfs = "sensor.img"
+
+
+[[groundstation]]
+name = "sensor178"
+lat = 20.895
+long = -156.469
+
+[groundstation.computeparams]
+rootfs = "sensor.img"
+
+
+[[groundstation]]
+name = "sensor154"
+lat = 16.0
+long = 155.256
+
+[groundstation.computeparams]
+rootfs = "sensor.img"
+
+
+[[groundstation]]
+name = "sensor98"
+lat = 50.055
+long = -144.873
+
+[groundstation.computeparams]
+rootfs = "sensor.img"
+
+
+[[groundstation]]
+name = "sensor4"
+lat = 46.488
+long = 158.343
+
+[groundstation.computeparams]
+rootfs = "sensor.img"
+
+
+[[groundstation]]
+name = "sensor181"
+lat = 8.732
+long = 167.734
+
+[groundstation.computeparams]
+rootfs = "sensor.img"
+
+
+[[groundstation]]
+name = "sensor183"
+lat = 21.433
+long = -157.79
+
+[groundstation.computeparams]
+rootfs = "sensor.img"
+
+
+[[groundstation]]
+name = "sensor45"
+lat = 47.353
+long = -124.742
+
+[groundstation.computeparams]
+rootfs = "sensor.img"
+
+
+[[groundstation]]
+name = "sensor130"
+lat = -23.11
+long = -168.385
+
+[groundstation.computeparams]
+rootfs = "sensor.img"
+
+
+[[groundstation]]
+name = "sensor26"
+lat = -7.428
+long = -93.48
+
+[groundstation.computeparams]
+rootfs = "sensor.img"
+
+
+[[groundstation]]
+name = "sensor96"
+lat = 57.0
+long = -149.0
+
+[groundstation.computeparams]
+rootfs = "sensor.img"
+
+
+[[groundstation]]
+name = "sensor141"
+lat = 11.93
+long = 153.895
+
+[groundstation.computeparams]
+rootfs = "sensor.img"
+
+
+[[groundstation]]
+name = "sensor137"
+lat = 13.682
+long = 144.806
+
+[groundstation.computeparams]
+rootfs = "sensor.img"
+
+
+[[groundstation]]
+name = "sensor8"
+lat = 48.11
+long = 163.435
+
+[groundstation.computeparams]
+rootfs = "sensor.img"
+
+
+[[groundstation]]
+name = "sensor171"
+lat = 8.3
+long = 137.5
+
+[groundstation.computeparams]
+rootfs = "sensor.img"
+
+
+[[groundstation]]
+name = "sensor135"
+lat = 13.354
+long = 144.788
+
+[groundstation.computeparams]
+rootfs = "sensor.img"
+
+
+[[groundstation]]
+name = "sensor131"
+lat = 0.018
+long = -179.903
+
+[groundstation.computeparams]
+rootfs = "sensor.img"
+
+
+[[groundstation]]
+name = "sensor90"
+lat = 44.5
+long = -170.0
+
+[groundstation.computeparams]
+rootfs = "sensor.img"
+
+
+[[groundstation]]
+name = "sensor89"
+lat = 32.455
+long = -120.557
+
+[groundstation.computeparams]
+rootfs = "sensor.img"
+
+
+[[groundstation]]
+name = "sensor61"
+lat = 51.83
+long = -131.22
+
+[groundstation.computeparams]
+rootfs = "sensor.img"
+
+
+[[groundstation]]
+name = "sensor24"
+lat = 4.958
+long = -90.868
+
+[groundstation.computeparams]
+rootfs = "sensor.img"
+
+
+[[groundstation]]
+name = "sensor30"
+lat = -17.98
+long = -86.33
+
+[groundstation.computeparams]
+rootfs = "sensor.img"
+
+
+[[groundstation]]
+name = "sensor143"
+lat = -5.373
+long = 164.99
+
+[groundstation.computeparams]
+rootfs = "sensor.img"
+
+
+[[groundstation]]
+name = "sinkSHIP1551"
+lat = 8.706471
+long = 160.4047
 
 [groundstation.computeparams]
 rootfs = "sink.img"
 
 
 [[groundstation]]
-name = "sinkSHIP665"
-lat = 7.865197
-long = -118.7301
+name = "sinkSHIP221"
+lat = 21.26286
+long = -150.649
 
 [groundstation.computeparams]
 rootfs = "sink.img"
 
 
 [[groundstation]]
-name = "sinkSHIP513"
-lat = 0.6605816
-long = -93.25373
+name = "sinkSHIP1995"
+lat = -3.927163
+long = 178.253
 
 [groundstation.computeparams]
 rootfs = "sink.img"
 
 
 [[groundstation]]
-name = "sinkSHIP439"
-lat = 5.16995
-long = -146.5527
+name = "sinkSHIP807"
+lat = 13.22347
+long = -124.2107
 
 [groundstation.computeparams]
 rootfs = "sink.img"
 
 
 [[groundstation]]
-name = "sinkSHIP1730"
-lat = 27.94535
-long = 163.4443
+name = "sinkSHIP2021"
+lat = 5.354943
+long = 162.9609
 
 [groundstation.computeparams]
 rootfs = "sink.img"
 
 
 [[groundstation]]
-name = "sinkSHIP2835"
-lat = -16.78637
-long = -76.85625
+name = "sinkSHIP1628"
+lat = -3.778945
+long = 161.0544
 
 [groundstation.computeparams]
 rootfs = "sink.img"
 
 
 [[groundstation]]
-name = "sinkISLAND259"
-lat = -18.47
-long = -136.47
+name = "sinkSHIP2910"
+lat = 0.5843067
+long = -90.75321
 
 [groundstation.computeparams]
 rootfs = "sink.img"
 
 
 [[groundstation]]
-name = "sinkSHIP2453"
-lat = -2.914902
-long = -136.2107
+name = "sinkSHIP1269"
+lat = 11.10984
+long = -97.43091
 
 [groundstation.computeparams]
 rootfs = "sink.img"
 
 
 [[groundstation]]
-name = "sinkSHIP949"
-lat = 17.29212
-long = -166.5886
+name = "sinkSHIP732"
+lat = 14.02026
+long = -157.6748
 
 [groundstation.computeparams]
 rootfs = "sink.img"
 
 
 [[groundstation]]
-name = "sinkSHIP2562"
-lat = 4.890932
-long = -148.6346
+name = "sinkSHIP460"
+lat = 49.08423
+long = -135.0122
 
 [groundstation.computeparams]
 rootfs = "sink.img"
 
 
 [[groundstation]]
-name = "sinkSHIP1853"
-lat = 6.650182
-long = 168.4956
+name = "sinkSHIP1317"
+lat = 14.15211
+long = -119.601
 
 [groundstation.computeparams]
 rootfs = "sink.img"
 
 
 [[groundstation]]
-name = "sinkSHIP1316"
-lat = 42.35667
-long = -129.4017
+name = "sinkSHIP975"
+lat = 47.49306
+long = -172.8419
 
 [groundstation.computeparams]
 rootfs = "sink.img"
 
 
 [[groundstation]]
-name = "sinkISLAND482"
-lat = 19.3
-long = -110.79
+name = "sinkISLAND485"
+lat = 49.47
+long = 154.74
 
 [groundstation.computeparams]
 rootfs = "sink.img"
 
 
 [[groundstation]]
-name = "sinkSHIP2598"
-lat = -12.83346
-long = 178.1118
+name = "sinkSHIP1093"
+lat = 43.96714
+long = -130.9986
 
 [groundstation.computeparams]
 rootfs = "sink.img"
 
 
 [[groundstation]]
-name = "sinkSHIP1864"
-lat = 11.16283
-long = 143.0257
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP1291"
-lat = 20.22333
-long = -109.765
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP1138"
-lat = 32.43507
-long = -143.3108
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP972"
-lat = 31.21575
-long = -139.9015
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP2278"
-lat = -19.23285
-long = -104.8227
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP1822"
-lat = 30.00333
-long = 146.94
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP802"
-lat = 28.37133
-long = -138.6788
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP2076"
-lat = 14.96789
-long = 141.0186
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP1907"
-lat = 18.30676
-long = 160.3475
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP338"
-lat = 38.04111
-long = -165.0842
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP1395"
-lat = 7.49815
-long = -86.21573
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP734"
-lat = 2.993162
-long = -129.4744
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP1008"
-lat = 16.17
-long = -110.7233
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP594"
-lat = 33.038
-long = -128.7233
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkISLAND155"
-lat = 7.86
-long = 145.83
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP375"
-lat = 33.18616
-long = -150.7432
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP359"
-lat = 37.29552
-long = -160.73
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkISLAND310"
-lat = -10.4
-long = -161.2
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP123"
-lat = 28.43077
-long = -150.8495
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP1019"
-lat = 10.22333
-long = -90.87666
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkISLAND307"
-lat = -18.88
-long = -159.74
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP2874"
-lat = -26.30048
-long = -84.27388
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP2837"
-lat = -2.758333
-long = -86.66333
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP1844"
-lat = 51.48306
-long = 162.6925
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP1381"
-lat = 39.20627
-long = -128.5327
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP1208"
-lat = 5.16995
-long = -146.5527
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP803"
-lat = 4.375267
-long = -139.0883
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP1930"
-lat = 49.85168
-long = 158.5271
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP747"
-lat = 24.98487
-long = -151.8686
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP2236"
-lat = -13.25499
-long = -134.611
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP1992"
-lat = 26.66176
-long = 143.552
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkISLAND325"
-lat = 53.67
-long = -132.4
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP1480"
-lat = 17.96435
-long = -161.0086
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP715"
-lat = 12.62752
-long = -167.73
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP1377"
-lat = 15.09135
-long = -134.172
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP1282"
-lat = 0.6605816
-long = -93.25373
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP2138"
-lat = 8.488334
-long = -90.14667
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkISLAND439"
-lat = 16.72
-long = 145.78
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP2131"
-lat = 0.2733333
-long = -91.61667
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP179"
-lat = 52.9807
-long = -152.3934
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkSHIP2867"
-lat = -14.23667
-long = -92.42834
-
-[groundstation.computeparams]
-rootfs = "sink.img"
-
-
-[[groundstation]]
-name = "sinkISLAND44"
-lat = -18.83
-long = -178.92
+name = "sinkSHIP1790"
+lat = 20.83147
+long = 150.2697
 
 [groundstation.computeparams]
 rootfs = "sink.img"
@@ -1746,54 +594,1206 @@ rootfs = "sink.img"
 
 
 [[groundstation]]
-name = "sinkSHIP2124"
-lat = -1.49474
-long = -86.96133
+name = "sinkISLAND349"
+lat = 9.25
+long = 167.5
 
 [groundstation.computeparams]
 rootfs = "sink.img"
 
 
 [[groundstation]]
-name = "sinkISLAND174"
-lat = 9.56
-long = 138.13
+name = "sinkSHIP1847"
+lat = 13.86831
+long = 144.8916
 
 [groundstation.computeparams]
 rootfs = "sink.img"
 
 
 [[groundstation]]
-name = "sinkSHIP1230"
-lat = 2.493333
-long = -91.96167
+name = "sinkSHIP333"
+lat = 35.91784
+long = -128.435
 
 [groundstation.computeparams]
 rootfs = "sink.img"
 
 
 [[groundstation]]
-name = "sinkSHIP2347"
-lat = 5.166783
-long = -146.5052
+name = "sinkSHIP2743"
+lat = 4.707077
+long = 128.9546
 
 [groundstation.computeparams]
 rootfs = "sink.img"
 
 
 [[groundstation]]
-name = "sinkSHIP1321"
-lat = 33.80315
-long = -171.9888
+name = "sinkSHIP2035"
+lat = 27.81219
+long = 150.3978
 
 [groundstation.computeparams]
 rootfs = "sink.img"
 
 
 [[groundstation]]
-name = "sinkSHIP1526"
-lat = 12.45302
-long = -174.5062
+name = "sinkSHIP2791"
+lat = -21.81854
+long = 178.6137
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP2327"
+lat = 2.031667
+long = -99.255
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP558"
+lat = 53.89719
+long = -147.5805
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP978"
+lat = 15.56667
+long = -155.0233
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP290"
+lat = 51.6193
+long = -163.9734
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP2087"
+lat = 0.7737233
+long = 159.6293
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkISLAND396"
+lat = 0.2
+long = -176.47
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkISLAND131"
+lat = 5.41
+long = 153.51
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP2611"
+lat = 0.9577
+long = 161.1306
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkISLAND324"
+lat = -0.41
+long = 167.29
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkISLAND443"
+lat = 0.33
+long = 173.83
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkISLAND415"
+lat = 55.25
+long = -133.34
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP1624"
+lat = -0.9572417
+long = 178.2278
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP395"
+lat = 45.06333
+long = -158.8017
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP2884"
+lat = 2.063333
+long = -83.68166
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP2726"
+lat = 2.590482
+long = 134.365
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP537"
+lat = 5.2068
+long = -143.2929
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkISLAND63"
+lat = 5.33
+long = 132.22
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP1525"
+lat = 8.223157
+long = -125.8951
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP832"
+lat = 11.79661
+long = -146.5019
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkISLAND338"
+lat = 12.22
+long = 170.08
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP1204"
+lat = 24.91065
+long = -116.5801
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP231"
+lat = 50.46056
+long = -140.3895
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP2617"
+lat = 0.39425
+long = 166.3335
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP598"
+lat = 42.01533
+long = -126.3843
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP2704"
+lat = 0.645
+long = 135.9683
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP2173"
+lat = 1.671007
+long = -80.80973
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkISLAND341"
+lat = 4.67
+long = 168.72
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP24"
+lat = 11.26667
+long = -123.68
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkISLAND387"
+lat = -18.69
+long = -174.08
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP2808"
+lat = -2.88133
+long = -86.35835
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP408"
+lat = 48.22954
+long = -138.1139
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkISLAND471"
+lat = -2.5
+long = 176.0
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkISLAND32"
+lat = -20.8
+long = -178.75
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP123"
+lat = 28.43077
+long = -150.8495
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP2670"
+lat = 2.79974
+long = 179.1151
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP2828"
+lat = -15.455
+long = -85.955
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP2660"
+lat = -19.36095
+long = 172.9789
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP691"
+lat = 37.25545
+long = -138.3196
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP1678"
+lat = 5.145
+long = 141.7283
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkISLAND31"
+lat = -18.88
+long = 178.5
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkISLAND421"
+lat = -11.6
+long = 166.85
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP979"
+lat = 33.35055
+long = -128.4895
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP2264"
+lat = -1.826667
+long = -92.725
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP1997"
+lat = 15.19364
+long = 145.6744
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP790"
+lat = 31.88375
+long = -158.9241
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP1516"
+lat = 24.98487
+long = -151.8686
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP2077"
+lat = 26.17523
+long = 143.8523
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP583"
+lat = 50.94337
+long = -144.0466
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP1287"
+lat = 21.66495
+long = -158.0002
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP939"
+lat = 52.41571
+long = -155.9757
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP2816"
+lat = 1.9669
+long = -83.20894
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP795"
+lat = 15.99223
+long = -142.0051
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkISLAND53"
+lat = -33.28
+long = 172.13
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP1388"
+lat = 7.962678
+long = -85.99977
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP1866"
+lat = 7.586973
+long = 129.2817
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP2227"
+lat = 4.46355
+long = -178.2509
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP771"
+lat = -2.88133
+long = -86.35835
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP1675"
+lat = 48.44697
+long = 179.4581
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP2287"
+lat = 3.449678
+long = -179.3345
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP342"
+lat = 14.94167
+long = -151.2983
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP1298"
+lat = 47.175
+long = -174.9217
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP2708"
+lat = -13.2048
+long = 164.3694
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP2528"
+lat = -2.511873
+long = -100.48
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP61"
+lat = 11.64667
+long = -93.81
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP452"
+lat = -2.758333
+long = -86.66333
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP1433"
+lat = 9.56766
+long = -92.85044
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP1332"
+lat = 15.06922
+long = -164.9876
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP2647"
+lat = 4.249858
+long = 169.1821
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP220"
+lat = 21.71173
+long = -164.4507
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP2604"
+lat = -2.018583
+long = 177.2238
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP2533"
+lat = -20.36137
+long = -179.9384
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkISLAND434"
+lat = 20.03
+long = 145.32
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP1019"
+lat = 10.22333
+long = -90.87666
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP1907"
+lat = 18.30676
+long = 160.3475
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP2499"
+lat = -0.4
+long = -91.22833
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP514"
+lat = 38.27458
+long = -128.1995
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP1879"
+lat = 30.28119
+long = 156.3671
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP1418"
+lat = -4.118793
+long = -101.1082
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkISLAND91"
+lat = -19.59
+long = 169.33
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP1209"
+lat = 7.030105
+long = -88.49051
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP1815"
+lat = 0.7583333
+long = 179.4217
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP2525"
+lat = -4.995739
+long = -85.01665
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP2190"
+lat = 0.3124917
+long = -89.94649
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP905"
+lat = 15.35913
+long = -136.5456
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP2582"
+lat = -12.72021
+long = -111.9911
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP47"
+lat = 52.03605
+long = -171.9078
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkISLAND472"
+lat = 1.5
+long = 173.0
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP727"
+lat = 7.024263
+long = -147.1146
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkISLAND162"
+lat = 6.63
+long = 149.27
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP1178"
+lat = 3.3002
+long = -179.7906
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP1221"
+lat = -2.758333
+long = -86.66333
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP1278"
+lat = 28.0534
+long = -155.7313
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP610"
+lat = 41.65988
+long = -138.2614
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP1391"
+lat = -3.991898
+long = -93.63078
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP1458"
+lat = -0.4
+long = -91.22833
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkISLAND377"
+lat = -18.68
+long = -174.11
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP2018"
+lat = 14.01325
+long = 159.4219
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP2832"
+lat = -20.27299
+long = -94.07232
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkISLAND463"
+lat = -1.33
+long = 176.42
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkISLAND430"
+lat = 19.71
+long = 145.41
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP1515"
+lat = 19.14815
+long = -155.9119
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP1005"
+lat = 5.402635
+long = -92.13155
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP1327"
+lat = 53.89719
+long = -147.5805
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkISLAND461"
+lat = -3.67
+long = -174.17
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP2076"
+lat = 14.96789
+long = 141.0186
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP1716"
+lat = 48.17167
+long = 164.5617
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP1534"
+lat = 35.74082
+long = -131.1657
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP2147"
+lat = -4.918098
+long = -93.85775
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkISLAND354"
+lat = 8.75
+long = 171.0
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP1637"
+lat = 3.212633
+long = 147.2813
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP311"
+lat = 50.69714
+long = -139.824
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP1887"
+lat = 4.083333
+long = 144.2083
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP2495"
+lat = -1.009703
+long = -85.1283
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP844"
+lat = 31.4801
+long = -160.6351
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP255"
+lat = -2.331383
+long = -85.35838
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP1240"
+lat = -3.975317
+long = -102.1705
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkISLAND98"
+lat = -0.45
+long = -90.25
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP1576"
+lat = 7.803385
+long = 138.8588
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP1889"
+lat = 51.04163
+long = 157.8748
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP2760"
+lat = -1.183333
+long = 136.07
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP784"
+lat = 17.3991
+long = -164.049
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkISLAND135"
+lat = 8.78
+long = 151.24
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP2733"
+lat = 2.800115
+long = 168.8013
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP1903"
+lat = 17.75603
+long = 148.161
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP2690"
+lat = 1.184525
+long = 165.6964
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP1773"
+lat = 3.601632
+long = 145.3089
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP1119"
+lat = 41.84408
+long = -163.1486
+
+[groundstation.computeparams]
+rootfs = "sink.img"
+
+
+[[groundstation]]
+name = "sinkSHIP580"
+lat = 6.248947
+long = -145.1816
 
 [groundstation.computeparams]
 rootfs = "sink.img"

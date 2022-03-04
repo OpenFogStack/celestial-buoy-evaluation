@@ -6,7 +6,6 @@ import pickle
 import typing
 import http.server
 import cgi
-import csv
 import argparse
 import random
 import multiprocessing as mp
@@ -92,7 +91,7 @@ class OneWayMeasurement():
             if self.target_address is not None:
                 try:
                     self.sock_out.sendall(payload)
-                    if packet_n % 2000 == 0:
+                    if packet_n % 200 == 0:
                         print("%d packets sent" % packet_n)
                 except:
                     pass
@@ -167,7 +166,7 @@ class OneWayMeasurement():
         - The timestamp of the packet
         """
 
-        value = [float(random.randint(0, 2**6)) for _ in range(10)]
+        value = float(random.randint(0, 2**6))
         send_time_seconds = time.time()
         payload = pickle.dumps((sensor_id, packet_n, value, send_time_seconds))
         return payload
@@ -187,7 +186,7 @@ def start(Measurement: typing.Type[OneWayMeasurement]) -> None:
 
     tester = Measurement()
 
-    sensor_id = int(args.name[len("sensor"):])
+    sensor_id = args.name[len("sensor"):]
 
     tester.run_client(sensor_id, args.listen_port, args.http_port, args.n_packets, args.send_rate_kBps)
 
@@ -201,7 +200,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--listen_port", type=int, default=8888)
     parser.add_argument("--payload_len", type=int, default=1227)
     parser.add_argument("--send_rate_kBps", type=float, default=1400.0)
-    parser.add_argument("--id", type=str, required=True)
+    parser.add_argument("--name", type=str, required=True)
     parser.add_argument("--http_port", type=int, default=8000)
     # parser.add_argument("--workload_file", type=str, default="./workload.csv")
     args = parser.parse_args()

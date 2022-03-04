@@ -13,6 +13,7 @@ import tflite_runtime.interpreter as tflite
 import numpy as np
 
 SERVER_RECV_BUFFER_SIZE = 2048
+MODEL_INPUT_LENGTH = 10
 
 class OneWayMeasurement():
 
@@ -23,11 +24,19 @@ class OneWayMeasurement():
 
         self.id = id
 
-        self.groups: typing.Dict[str, str] = {}
+        self.sensor_groups: typing.Dict[str, str] = {}
+
+        self.group_buffers: typing.Dict[str, np.ndarray] = {}
+        self.group_buffer_point: typing.Dict[str, int] = {}
 
         with open(group_list, "r") as f:
             for line in csv.DictReader(f):
-                self.groups[line["STATION_ID"]] = line["GROUP"]
+                group = line["GROUP"]
+                self.sensor_groups[line["SENSOR_ID"]] = group
+
+                if group not in self.group_buffers:
+                    self.group_buffers[group] = np.zeros(MODEL_INPUT_LENGTH, dtype=np.float32)
+                    self.group_buffer_point[group] = 0
 
         self.targets: typing.Dict[str, typing.List[str]] = {}
 
@@ -55,9 +64,13 @@ class OneWayMeasurement():
             return np.float32(1)
         return np.float32((x - self.min_v) / (self.max_v - self.min_v))
 
-    def predict(self, values: typing.List[float]) -> float:
+    def predict(self, value: float, group: str) -> float:
 
-        return float(self.fn(x=np.array([[ [self.scale(v)] for v in values ]]))["output_0"][0][0])
+        self.group_buffers[group][self.group_buffer_point[group]] = self.scale(value)
+        self.group_buffer_point[group] += 1
+        self.group_buffer_point[group] %= MODEL_INPUT_LENGTH
+
+        return float(self.fn(x=np.array([[ self.group_buffers[group] ]]))["output_0"][0][0])
 
     def get_socket(self, target: str) -> socket.socket:
         if target in self.sockets:
@@ -113,7 +126,7 @@ class OneWayMeasurement():
 
                 self.queue.put((payload, packet_c, recv_time))
 
-                if packet_c % 2000 == 0:
+                if packet_c % 200 == 0:
                     print("%d packets received" % packet_c)
 
                 packet_c += 1
@@ -132,16 +145,16 @@ class OneWayMeasurement():
         while True:
             payload, packet_c, recv_time = self.queue.get()
 
-            (ids, packet_n, values, send_time) = pickle.loads(payload)
+            (ids, packet_n, value, send_time) = pickle.loads(payload)
 
-            group = self.groups[ids]
+            group = self.sensor_groups[ids]
 
-            vals = self.predict(values)
+            vals = self.predict(value, group)
 
             for target in self.targets[group]:
                 self.send_packet(target, ids, packet_n, vals, send_time, recv_time)
 
-            if packet_c % 2000 == 0:
+            if packet_c % 200 == 0:
                 print("%d packets sent (%d backpressure)" % (packet_c, self.queue.qsize()))
 
 def start(Measurement: typing.Type[OneWayMeasurement]) -> None:

@@ -25,16 +25,16 @@ scp -ri gcloud.pem.pub tp@$HOST:./test-results.csv ./results/test/
 ```
 
 ```sh
-HOST1=35.234.113.127
-HOST2=34.107.101.180
-HOST3=35.234.113.127
-HOST4=34.89.169.47
-HOST5=34.141.102.164
-HOSTC=35.246.128.67
+# HOST1=35.234.113.127
+HOST2=34.141.24.155
+HOST3=34.141.80.97
+HOST4=34.141.102.164
+HOST5=35.242.254.102
+HOSTC=34.89.169.47
 
-scp -ri gcloud.pem.pub sensor/sensor.img tp@$HOST1:.
-scp -ri gcloud.pem.pub service/service.img tp@$HOST1:.
-scp -ri gcloud.pem.pub sink/sink.img tp@$HOST1:.
+# scp -ri gcloud.pem.pub sensor/sensor.img tp@$HOST1:.
+# scp -ri gcloud.pem.pub service/service.img tp@$HOST1:.
+# scp -ri gcloud.pem.pub sink/sink.img tp@$HOST1:.
 
 scp -ri gcloud.pem.pub sensor/sensor.img tp@$HOST2:.
 scp -ri gcloud.pem.pub service/service.img tp@$HOST2:.
@@ -114,10 +114,10 @@ rm -rfd ./mnt_tmp
 ```
 
 ```sh
-ssh -i gcloud.pem.pub tp@$HOST2 "tar czf - ./results2/results-test-2" | tar xvzf -
-
-scp -ri gcloud.pem.pub tp@$HOST2:./results2/results-test-3 ./results/ &
-scp -ri gcloud.pem.pub tp@$HOST3:./results2/results-test-3 ./results/ &
-scp -ri gcloud.pem.pub tp@$HOST4:./results2/results-test-3 ./results/ &
-scp -ri gcloud.pem.pub tp@$HOST5:./results2/results-test-3 ./results/ &
+RUN_NAME=test
+RUN_NUMBER=3
+scp -ri gcloud.pem.pub tp@$HOST2:./results2/results-"$RUN_NAME"-"$RUN_NUMBER" ./results/ &
+scp -ri gcloud.pem.pub tp@$HOST3:./results2/results-"$RUN_NAME"-"$RUN_NUMBER" ./results/ &
+scp -ri gcloud.pem.pub tp@$HOST4:./results2/results-"$RUN_NAME"-"$RUN_NUMBER" ./results/ &
+scp -ri gcloud.pem.pub tp@$HOST5:./results2/results-"$RUN_NAME"-"$RUN_NUMBER" ./results/ &
 ```

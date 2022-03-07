@@ -27,10 +27,10 @@ scp -ri gcloud.pem.pub tp@$HOST:./test-results.csv ./results/test/
 ```sh
 # HOST1=35.234.113.127
 HOST2=34.141.24.155
-HOST3=34.141.80.97
-HOST4=34.141.102.164
-HOST5=35.242.254.102
-HOSTC=34.89.169.47
+HOST3=34.141.102.164
+HOST4=35.246.128.67
+HOST5=34.89.169.47
+HOSTC=34.141.36.147
 
 # scp -ri gcloud.pem.pub sensor/sensor.img tp@$HOST1:.
 # scp -ri gcloud.pem.pub service/service.img tp@$HOST1:.
@@ -53,7 +53,7 @@ scp -ri gcloud.pem.pub service/service.img tp@$HOST5:.
 scp -ri gcloud.pem.pub sink/sink.img tp@$HOST5:.
 
 scp -ri gcloud.pem.pub iridium-full.toml tp@$HOSTC:.
-
+scp -ri gcloud.pem.pub iridium-full-cloud.toml tp@$HOSTC:.
 
 scp -ri gcloud.pem.pub tp@$HOST1:/celestial/vmlinux.bin .
 
@@ -114,10 +114,27 @@ rm -rfd ./mnt_tmp
 ```
 
 ```sh
+RUNS=( cloud sat )
+NUMBERS=( 1 2 3 )
+
+for RUN_NAME in "${RUNS[@]}"
+do
+    for RUN_NUMBER in "${NUMBERS[@]}"
+    do
+        scp -ri gcloud.pem.pub tp@$HOST2:./results2/results-"$RUN_NAME"-"$RUN_NUMBER" ./results/
+        scp -ri gcloud.pem.pub tp@$HOST3:./results2/results-"$RUN_NAME"-"$RUN_NUMBER" ./results/
+        scp -ri gcloud.pem.pub tp@$HOST4:./results2/results-"$RUN_NAME"-"$RUN_NUMBER" ./results/
+        scp -ri gcloud.pem.pub tp@$HOST5:./results2/results-"$RUN_NAME"-"$RUN_NUMBER" ./results/
+    done
+done
+```
+
+```sh
 RUN_NAME=test
 RUN_NUMBER=3
-scp -ri gcloud.pem.pub tp@$HOST2:./results2/results-"$RUN_NAME"-"$RUN_NUMBER" ./results/ &
-scp -ri gcloud.pem.pub tp@$HOST3:./results2/results-"$RUN_NAME"-"$RUN_NUMBER" ./results/ &
-scp -ri gcloud.pem.pub tp@$HOST4:./results2/results-"$RUN_NAME"-"$RUN_NUMBER" ./results/ &
-scp -ri gcloud.pem.pub tp@$HOST5:./results2/results-"$RUN_NAME"-"$RUN_NUMBER" ./results/ &
+scp -ri gcloud.pem.pub tp@$HOST2:./results2/results-"$RUN_NAME"-"$RUN_NUMBER" ./results/
+scp -ri gcloud.pem.pub tp@$HOST3:./results2/results-"$RUN_NAME"-"$RUN_NUMBER" ./results/
+scp -ri gcloud.pem.pub tp@$HOST4:./results2/results-"$RUN_NAME"-"$RUN_NUMBER" ./results/
+scp -ri gcloud.pem.pub tp@$HOST5:./results2/results-"$RUN_NAME"-"$RUN_NUMBER" ./results/
+
 ```

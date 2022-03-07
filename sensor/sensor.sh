@@ -61,7 +61,9 @@ NAME=$(curl -s "$IP"/self | python3 -c 'import sys, json; print(json.load(sys.st
 
 echo "$NAME"
 
-./server_selection.bin --method="satellite" --data-gen-endpoint="localhost:8000" --api-endpoint="$IP" &
+# ./server_selection.bin --method="satellite" --data-gen-endpoint="localhost:8000" --api-endpoint="$IP" &
+./server_selection.bin --method="groundstation" --host "hawaii.gst.celestial" --data-gen-endpoint="localhost:8000" &
+
 
 ./data_gen.py --name "$NAME" --listen_port 3000 --http_port 8000 --n_packets 10000000 --send_rate_kBps 0.2
 

@@ -36,22 +36,9 @@ inclination = 90.0
 arcofascendingnodes = 180.0
 eccentricity = 0.0
 
-[shell.computeparams]
-vcpu_count = 0
-
 [shell.networkparams]
 bandwidth = 100000
 
-# this is the NOAA Dart processing location
-[[groundstation]]
-name = "hawaii"
-lat = 21.366315122964277
-long = -157.96262184972477
-
-[groundstation.computeparams]
-rootfs = "service.img"
-vcpu_count = 8
-mem_size_mib = 8096
 
 [[groundstation]]
 name = "sensor111"

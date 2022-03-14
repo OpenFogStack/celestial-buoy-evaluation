@@ -18,7 +18,7 @@
 
 .PHONY: all
 
-all: sensor/sensor.img service/service.img sink/sink.img
+all: sensor/sensor.img sensor/sensor-sat.img service/service.img sink/sink.img
 
 model/model.tflite: model/lstm.py model/data.csv model/train.sh
 	cd model && sh train.sh
@@ -28,6 +28,9 @@ sensor/server_selection.bin: sensor/server_selection.go
 
 sensor/sensor.img: sensor/sensor.sh sensor/sensor-base.sh sensor/data_gen.py sensor/server_selection.bin
 	@docker run --rm -v $(PWD)/sensor/sensor.sh:/app.sh -v $(PWD)/sensor/sensor-base.sh:/base.sh -v $(PWD)/sensor/workload.csv:/files/workload.csv -v $(PWD)/sensor/data_gen.py:/files/data_gen.py -v $(PWD)/sensor/server_selection.bin:/files/server_selection.bin -v $(PWD):/opt/code --privileged rootfsbuilder $@
+
+sensor/sensor-sat.img: sensor/sensor-sat.sh sensor/sensor-base.sh sensor/data_gen.py sensor/server_selection.bin
+	@docker run --rm -v $(PWD)/sensor/sensor-sat.sh:/app.sh -v $(PWD)/sensor/sensor-base.sh:/base.sh -v $(PWD)/sensor/workload.csv:/files/workload.csv -v $(PWD)/sensor/data_gen.py:/files/data_gen.py -v $(PWD)/sensor/server_selection.bin:/files/server_selection.bin -v $(PWD):/opt/code --privileged rootfsbuilder $@
 
 service/service.img: service/service.sh service/service-base.sh service/data_analyze.py model/model.tflite affinity.csv groups.csv
 	@docker run --rm -v $(PWD)/service/service.sh:/app.sh -v $(PWD)/service/service-base.sh:/base.sh -v $(PWD)/service/data_analyze.py:/files/data_analyze.py -v $(PWD)/model/model.tflite:/files/model.tflite -v $(PWD)/wheels/tflite_runtime-2.8.0-cp39-cp39-linux_x86_64.whl:/files/tflite_runtime-2.8.0-cp39-cp39-linux_x86_64.whl  -v $(PWD)/wheels/numpy-1.22.2-cp39-cp39-linux_x86_64.whl:/files/numpy-1.22.2-cp39-cp39-linux_x86_64.whl -v $(PWD)/affinity.csv:/files/affinity.csv -v $(PWD)/groups.csv:/files/groups.csv -v $(PWD):/opt/code --privileged rootfsbuilder $@
